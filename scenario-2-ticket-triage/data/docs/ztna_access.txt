@@ -1,0 +1,2 @@
+ZTNA (Zero Trust Network Access) provides application access with identity-aware policies. Common issues include posture checks, IdP integration, connector reachability, and policy allow lists.
+If app access denied: validate user group, posture compliance, and connector status.

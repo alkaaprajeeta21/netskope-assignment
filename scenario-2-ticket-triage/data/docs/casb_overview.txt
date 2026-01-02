@@ -1,0 +1,2 @@
+CASB (Cloud Access Security Broker) helps enforce security policies for cloud applications. Common topics include tenant configuration, API connectors, DLP policies, and app governance.
+Troubleshooting: verify connector health, permissions, API tokens, and policy match conditions.

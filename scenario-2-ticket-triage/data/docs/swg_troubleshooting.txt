@@ -1,0 +1,2 @@
+SWG (Secure Web Gateway) covers proxy and web traffic security. Troubleshooting often involves PAC files, client traffic steering, SSL inspection certificates, and policy order.
+If users cannot browse: confirm steering, proxy reachable, and certificate installed.

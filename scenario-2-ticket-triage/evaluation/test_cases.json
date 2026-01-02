@@ -1,0 +1,22 @@
+[
+  {
+    "id": "T1",
+    "text": "Users cannot browse web via proxy. SSL inspection failing. urgent."
+  },
+  {
+    "id": "T2",
+    "text": "ZTNA app access denied for a user group after posture check update. Need steps."
+  },
+  {
+    "id": "T3",
+    "text": "How do I configure a CASB API connector for Salesforce?"
+  },
+  {
+    "id": "T4",
+    "text": "Intermittent access to internal app via ZTNA; connector seems unreachable."
+  },
+  {
+    "id": "T5",
+    "text": "Need help understanding SWG policy order and SSL inspection certificate deployment."
+  }
+]
